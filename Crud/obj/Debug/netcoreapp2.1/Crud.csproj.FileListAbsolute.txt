@@ -1,0 +1,14 @@
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\bin\Debug\netcoreapp2.1\Crud.deps.json
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\bin\Debug\netcoreapp2.1\Crud.runtimeconfig.json
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\bin\Debug\netcoreapp2.1\Crud.runtimeconfig.dev.json
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\bin\Debug\netcoreapp2.1\Crud.dll
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\bin\Debug\netcoreapp2.1\Crud.pdb
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.csprojAssemblyReference.cache
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.csproj.CoreCompileInputs.cache
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.RazorAssemblyInfo.cache
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.RazorAssemblyInfo.cs
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.AssemblyInfoInputs.cache
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.AssemblyInfo.cs
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.RazorTargetAssemblyInfo.cache
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.dll
+C:\Users\BSA62\LambdaSchool\Crud_C_Sharp_Backend\Crud\obj\Debug\netcoreapp2.1\Crud.pdb
