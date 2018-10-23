@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
-
-namespace CrudApp.Models
+﻿namespace CrudApp.Models
 {
     public class Todo
     {
